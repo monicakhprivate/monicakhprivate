@@ -1,3 +1,13 @@
+
+
+<div align="center">
+
+![image](https://raw.githubusercontent.com/teoabaza/teoabaza/main/welcometogitbanner.PNG)
+ 
+</div>
+
+<h3>👨🏻‍💻  About Me</h3>
+
 - 👋 Hi, I’m Monica! 
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning multiple coding languages, hoping to choose one eventually 🥴
